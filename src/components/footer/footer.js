@@ -4,7 +4,6 @@ import { GrStar, GrGithub, GrLinkedin } from "react-icons/gr";
 import { FaFacebookF } from "react-icons/fa";
 import { Link } from "components/link";
 import data from "./footer.data";
-import FooterLogo from "assets/logo.svg";
 
 const socialMediaIcon = [
   { icon: <GrGithub size={30} />, URL: "https://github.com/Darrenyibochang" },
