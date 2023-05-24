@@ -27,7 +27,7 @@ const data = [
     avatar: MovieDB,
     name: "Movie Data Base",
     homePage: "https://darrenyibochang.github.io/csb-uufhk/",
-    sourceCode: "https://github.com/Darrenyibochang/MovieDB",
+    sourceCode: "https://github.com/Darrenyibochang/apollo-react-app-SAMPLE",
   },
   {
     id: 2,
